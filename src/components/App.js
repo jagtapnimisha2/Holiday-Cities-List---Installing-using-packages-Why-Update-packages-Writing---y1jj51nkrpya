@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@jagtapnimisha2 
-sarangsalame
-/
-Holiday-List-React---Installing-using-packages-Why-Update-packages-Writing-M---7vglbgwsdnhf
-Public
-forked from Fizz007/Holiday-List-React---Installing-using-packages-Why-Update-packages-Writing-M---7vglbgwsdnhf
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Holiday-List-React---Installing-using-packages-Why-Update-packages-Writing-M---7vglbgwsdnhf/src/components/App.js /
-@Fizz007
-Fizz007 Update App.js
-Latest commit b2d8009 yesterday
- History
- 1 contributor
-131 lines (64 sloc)  2.22 KB
-
 import React, { Component, useState } from "react";
 
 import '../styles/App.css';
